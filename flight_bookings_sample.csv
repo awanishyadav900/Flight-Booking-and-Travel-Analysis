@@ -1,0 +1,251 @@
+Booking_ID,Ticket_Price,Distance_km,Flight_Duration_hr,Passenger_Age,Airline,Travel_Class,Departure_City,Payment_Method
+FB1001,3015.91,12243.3,23.92,60,Q Airways,Business,Singapore,Credit Card
+FB1002,416.23,1034.1,1.42,52,L Airlines,Economy,London,Cash
+FB1003,2897.73,7842.7,12.66,59,E Airlines,Economy,Singapore,Cash
+FB1004,4173.46,1987.1,2.22,38,B Airways,Business,Frankfurt,PayPal
+FB1005,2500.49,14944.2,25.75,65,E Airlines,Business,London,Cash
+FB1006,3625.42,9625.8,16.68,45,Q Airways,Economy,Singapore,PayPal
+FB1007,3221.36,3252.1,6.37,34,E Airlines,Business,New York,Debit Card
+FB1008,4981.57,819.7,1.05,68,L Airlines,First,Mumbai,PayPal
+FB1009,257.87,12309.8,16.65,24,Air I,Business,London,Debit Card
+FB1010,2928.65,13212.2,19.49,80,L Airlines,Economy,Paris,Cash
+FB1011,2248.77,7638.6,10.53,21,B Airways,First,Dubai,Credit Card
+FB1012,4861.22,7613.7,10.58,21,Air I,Business,London,Net Banking
+FB1013,3392.3,9003,16.68,13,L Airlines,Economy,New York,Debit Card
+FB1014,874.41,3231.6,3.81,77,B Airways,First,Frankfurt,UPI
+FB1015,2644.07,7629.9,12.69,68,S Airlines,Economy,Dubai,UPI
+FB1016,2658.08,254.4,0.44,61,L Airlines,First,Delhi,Debit Card
+FB1017,2671.67,3129.7,3.69,56,S Airlines,Premium Economy,Singapore,Cash
+FB1018,169.64,5552.9,8.69,55,E Airlines,Economy,Singapore,Credit Card
+FB1019,482.3,3033.8,4.22,32,S Airlines,Premium Economy,New York,Net Banking
+FB1020,616.04,7842.2,12.47,40,E Airlines,First,Dubai,Debit Card
+FB1021,1317.24,4527.8,5.96,30,S Airlines,Premium Economy,Paris,Cash
+FB1022,3344.41,9167.7,17.25,53,B Airways,Premium Economy,Mumbai,Debit Card
+FB1023,2401.2,11150.7,16.06,35,S Airlines,Premium Economy,Mumbai,Cash
+FB1024,415.33,10176.8,15.06,26,Q Airways,First,Dubai,Net Banking
+FB1025,1666.47,8879.5,13.79,28,S Airlines,Premium Economy,Mumbai,UPI
+FB1026,4426.98,9584.3,12.25,32,E Airlines,Premium Economy,Mumbai,Credit Card
+FB1027,1794.5,4658,5.26,57,E Airlines,Economy,Singapore,Net Banking
+FB1028,4895.35,13540.8,26.89,16,L Airlines,Premium Economy,Singapore,Debit Card
+FB1029,190.97,1690.9,2.45,72,L Airlines,Economy,New York,PayPal
+FB1030,3553.24,1948.7,2.95,70,E Airlines,Business,Dubai,Credit Card
+FB1031,2675.26,6039.7,8.23,72,S Airlines,First,Singapore,Credit Card
+FB1032,628.18,2566.5,4.98,49,B Airways,Premium Economy,Singapore,UPI
+FB1033,2262.61,2058.9,3.3,23,Q Airways,Business,Mumbai,Net Banking
+FB1034,863.61,948.9,1.63,36,B Airways,Business,Paris,Debit Card
+FB1035,1712.6,4177.6,5.31,49,B Airways,First,Dubai,Net Banking
+FB1036,3379.51,4431.2,7.42,69,B Airways,First,Paris,UPI
+FB1037,3474.24,11304.7,12.75,61,Air I,Business,Mumbai,Net Banking
+FB1038,4441.28,7692.2,13.64,64,B Airways,Business,Frankfurt,Net Banking
+FB1039,387.41,8522.6,10.5,38,L Airlines,First,Dubai,Credit Card
+FB1040,4809.5,10475.4,16.09,38,Q Airways,Economy,Singapore,UPI
+FB1041,917.32,7850.9,13.29,80,L Airlines,First,Paris,Net Banking
+FB1042,1406.83,12146.2,14.26,14,Air I,Business,Paris,UPI
+FB1043,1750.23,14724.4,23.58,24,Air I,First,Delhi,Cash
+FB1044,3856.77,6539.2,8.31,62,E Airlines,Business,Paris,Net Banking
+FB1045,3866.13,10444.8,13.18,42,B Airways,Economy,Paris,Cash
+FB1046,2303.78,8760,11.16,75,S Airlines,Economy,Frankfurt,Debit Card
+FB1047,651.25,220.5,0.26,23,L Airlines,Economy,Frankfurt,Net Banking
+FB1048,3797.72,4553.3,8.36,44,S Airlines,Business,New York,Cash
+FB1049,2381.47,4720.3,6.78,14,L Airlines,Premium Economy,Dubai,PayPal
+FB1050,3237.47,12303.8,15.32,32,S Airlines,Business,Delhi,PayPal
+FB1051,4897.83,7148.2,13.97,25,Q Airways,Business,Dubai,Debit Card
+FB1052,4437.55,14769.7,18.62,14,B Airways,Business,Singapore,Debit Card
+FB1053,2549.94,5816,10.37,76,Air I,First,New York,Credit Card
+FB1054,494.96,5296.6,7.85,22,L Airlines,Economy,Mumbai,Net Banking
+FB1055,2200.23,7194.2,8.06,18,Air I,Economy,Delhi,PayPal
+FB1056,2727.35,12476.3,19.76,15,E Airlines,Premium Economy,Singapore,Net Banking
+FB1057,1117.03,5214.4,6.8,80,B Airways,Business,Dubai,Debit Card
+FB1058,4604.86,2179.4,4.28,26,E Airlines,First,Mumbai,PayPal
+FB1059,3438.65,7231.3,10.58,80,E Airlines,Economy,Singapore,Cash
+FB1060,3954.21,4867.6,6.08,45,L Airlines,First,Delhi,Debit Card
+FB1061,360.32,7291.5,10.27,57,S Airlines,Premium Economy,Frankfurt,Cash
+FB1062,1754.92,1210.7,1.5,37,B Airways,Economy,New York,Cash
+FB1063,2596.11,1442.5,2.26,16,B Airways,First,Dubai,UPI
+FB1064,4297.02,1715.1,2.33,55,Q Airways,Premium Economy,London,UPI
+FB1065,4507.83,11348.5,14.9,75,E Airlines,Economy,Dubai,Credit Card
+FB1066,2536.83,2733.6,5.06,71,S Airlines,Business,New York,Cash
+FB1067,3241.43,7342.5,11.55,62,S Airlines,Business,New York,Net Banking
+FB1068,4262.63,4732.1,6.73,37,B Airways,First,London,PayPal
+FB1069,2329.22,10653.8,18.33,41,B Airways,Premium Economy,Paris,Cash
+FB1070,1428.07,11045.1,16.09,60,E Airlines,First,Dubai,Cash
+FB1071,1356.64,12102,21.68,41,L Airlines,Premium Economy,Mumbai,Debit Card
+FB1072,4114.24,4318.5,5.68,44,B Airways,First,London,Credit Card
+FB1073,3972.94,4431.7,6.54,72,S Airlines,Premium Economy,Singapore,UPI
+FB1074,3617.05,13242.8,15.62,16,B Airways,Economy,London,Net Banking
+FB1075,4898.36,1442.1,2.13,66,B Airways,First,Dubai,Debit Card
+FB1076,2736.75,2500.2,4.15,23,B Airways,Business,Mumbai,Cash
+FB1077,4776.33,10567.5,15.39,45,Air I,Premium Economy,Mumbai,Net Banking
+FB1078,1402.92,12881.9,23.48,54,E Airlines,First,Dubai,Credit Card
+FB1079,4404.33,9292.3,13.67,58,L Airlines,Premium Economy,Delhi,Debit Card
+FB1080,1710.92,1910.6,2.66,40,S Airlines,Economy,Singapore,Cash
+FB1081,4429.05,1651.2,2.58,80,L Airlines,First,Frankfurt,Debit Card
+FB1082,961.22,7119,13.98,22,L Airlines,Business,New York,UPI
+FB1083,2891.27,8756.1,12.42,41,Q Airways,Economy,Dubai,Cash
+FB1084,3145.45,768.6,1.2,78,Air I,Premium Economy,Mumbai,Credit Card
+FB1085,2259.77,12177.4,16.1,37,E Airlines,Economy,New York,Net Banking
+FB1086,4468.76,13054.3,25.25,53,Q Airways,First,Frankfurt,PayPal
+FB1087,4781.63,5449.2,6.56,41,B Airways,First,Singapore,Credit Card
+FB1088,1497.99,12808.7,23.32,20,Q Airways,Business,London,Credit Card
+FB1089,4475.26,4744.5,5.91,28,Q Airways,First,Frankfurt,Net Banking
+FB1090,1088.82,11110.7,13.36,60,Q Airways,Economy,Frankfurt,Debit Card
+FB1091,815.05,3657.5,5.8,33,Air I,Premium Economy,Mumbai,PayPal
+FB1092,3578.35,12617.2,16.71,76,S Airlines,Premium Economy,Frankfurt,Net Banking
+FB1093,1360.13,5640.3,10.13,53,L Airlines,First,Delhi,Cash
+FB1094,3759.67,11590.5,17.3,24,L Airlines,Premium Economy,Mumbai,PayPal
+FB1095,1724.44,10039.2,19.91,19,S Airlines,Business,Mumbai,PayPal
+FB1096,4985.36,3648.5,7.16,77,E Airlines,Premium Economy,Delhi,Net Banking
+FB1097,1166.1,927.7,1.58,14,Q Airways,Economy,Frankfurt,UPI
+FB1098,726.79,6853.6,13.51,30,Q Airways,First,Mumbai,Net Banking
+FB1099,4350.88,11865.8,14.88,77,Air I,First,Delhi,PayPal
+FB1100,2016.68,10570,12.4,75,B Airways,Premium Economy,Delhi,Net Banking
+FB1101,3235.01,10572.3,12.11,30,E Airlines,Premium Economy,Mumbai,Debit Card
+FB1102,4759.11,12483.7,14.31,19,Air I,Premium Economy,London,Cash
+FB1103,1602.38,4235.1,5,54,Q Airways,Business,London,Credit Card
+FB1104,2687.01,11701.1,13.51,35,L Airlines,Business,Delhi,UPI
+FB1105,4410.34,3127.1,4.67,22,L Airlines,Economy,Delhi,Cash
+FB1106,3062.15,865.5,1.19,38,L Airlines,First,Frankfurt,Credit Card
+FB1107,3911.1,4058.8,8.07,22,S Airlines,Premium Economy,London,Cash
+FB1108,1111.47,9447.5,12.64,48,L Airlines,Economy,Dubai,Debit Card
+FB1109,2803.53,7756.2,13.4,16,Q Airways,Business,Mumbai,PayPal
+FB1110,3012.64,1579.4,2.45,20,Q Airways,Business,Delhi,UPI
+FB1111,884.58,903.9,1.29,67,Q Airways,Economy,New York,Net Banking
+FB1112,245.97,4204,5.98,47,E Airlines,Business,Delhi,UPI
+FB1113,791.72,12970.9,15.63,41,B Airways,Economy,London,Net Banking
+FB1114,1102.69,14824.5,20.51,41,B Airways,Premium Economy,Frankfurt,PayPal
+FB1115,3681.86,11298.8,12.61,40,E Airlines,Premium Economy,Frankfurt,PayPal
+FB1116,530.85,13021.9,14.65,41,Q Airways,Business,Frankfurt,UPI
+FB1117,472.95,11397.2,14.14,62,Air I,Economy,New York,UPI
+FB1118,4119.21,1558.6,2.15,69,B Airways,Premium Economy,London,UPI
+FB1119,3168.24,7696.8,14.41,24,Air I,Business,Delhi,PayPal
+FB1120,525.17,5743.8,6.54,56,S Airlines,Business,Dubai,Credit Card
+FB1121,905.95,11407.7,13.24,51,S Airlines,Premium Economy,London,Credit Card
+FB1122,2757.49,9846.8,12.61,54,Q Airways,Business,Mumbai,PayPal
+FB1123,730.57,3979.4,5.39,30,B Airways,First,Singapore,UPI
+FB1124,356.89,5559.3,8.89,75,B Airways,Economy,Mumbai,Net Banking
+FB1125,4104.12,7822.7,9.65,75,B Airways,Business,Dubai,Credit Card
+FB1126,2757.3,12543.3,16.53,55,Air I,First,Frankfurt,UPI
+FB1127,141.25,11377.1,15.59,74,B Airways,Premium Economy,Dubai,Credit Card
+FB1128,1708.28,14391,20.04,59,Air I,Premium Economy,Mumbai,Debit Card
+FB1129,305.51,3970.1,4.69,75,E Airlines,Premium Economy,Delhi,Credit Card
+FB1130,4475.51,13294,14.79,51,L Airlines,Business,Frankfurt,UPI
+FB1131,1662.17,771.2,0.98,73,S Airlines,Premium Economy,New York,PayPal
+FB1132,4720.08,4873.1,8.87,22,E Airlines,Business,Mumbai,Debit Card
+FB1133,4004.03,8077.8,9.15,57,L Airlines,Premium Economy,New York,Net Banking
+FB1134,4036.29,14420.1,24.66,14,Q Airways,Premium Economy,New York,Credit Card
+FB1135,1924.92,10689.1,16.22,51,B Airways,Business,Dubai,Cash
+FB1136,1534.38,864.9,1.31,35,S Airlines,Business,Singapore,PayPal
+FB1137,201.35,5749,7.12,71,E Airlines,Business,Mumbai,PayPal
+FB1138,1831.48,8964.6,10.99,29,B Airways,Economy,Paris,Net Banking
+FB1139,4793.75,13658,19.01,29,Air I,Premium Economy,Singapore,Credit Card
+FB1140,3327.43,14250.3,18.68,14,Air I,Economy,Delhi,Cash
+FB1141,4348.75,5779,7.33,70,S Airlines,Economy,Delhi,Debit Card
+FB1142,4522.19,12894.2,18.64,45,L Airlines,First,Paris,UPI
+FB1143,779.01,9279.7,11.86,37,S Airlines,First,Frankfurt,Cash
+FB1144,4709.85,3448.2,5.22,42,Air I,First,Frankfurt,Credit Card
+FB1145,2358.25,10274.9,18.74,32,Q Airways,First,Delhi,PayPal
+FB1146,4883.51,242.6,0.39,60,B Airways,Economy,New York,PayPal
+FB1147,4741.64,1438.9,1.6,75,Q Airways,Premium Economy,Paris,UPI
+FB1148,2444.76,6142.5,7.06,57,E Airlines,Economy,Delhi,Credit Card
+FB1149,2018.46,2741.1,3.19,27,Q Airways,Premium Economy,Paris,UPI
+FB1150,2465.08,9745.3,18.6,48,Air I,Business,London,Net Banking
+FB1151,2242.74,4995.8,6.59,14,L Airlines,First,Singapore,Debit Card
+FB1152,4248.65,11887.6,13.52,34,E Airlines,Business,London,Cash
+FB1153,2936.17,2656.8,3.01,13,L Airlines,First,Delhi,Debit Card
+FB1154,3364.74,12280.3,20.44,16,Q Airways,Business,Frankfurt,PayPal
+FB1155,4552.02,13259.4,16.08,62,Air I,First,Frankfurt,UPI
+FB1156,2850.74,5664.5,6.53,50,B Airways,Premium Economy,Frankfurt,Cash
+FB1157,2652.95,7739.7,11.69,20,S Airlines,Business,New York,Credit Card
+FB1158,530.66,8474,9.54,28,L Airlines,Premium Economy,Delhi,Debit Card
+FB1159,1456.13,12140.8,15.48,79,Q Airways,Economy,Singapore,PayPal
+FB1160,3978.01,1953.4,2.76,28,B Airways,Premium Economy,Mumbai,Debit Card
+FB1161,1709.8,11790,16.41,15,Air I,Premium Economy,Paris,Credit Card
+FB1162,4085.25,6039.5,10.36,55,Air I,Premium Economy,London,UPI
+FB1163,3724.81,11621,14.51,44,Air I,Business,Mumbai,Cash
+FB1164,1559.91,12418,18.1,16,Q Airways,Economy,Dubai,Cash
+FB1165,2414.37,8636.1,12.41,79,L Airlines,First,Dubai,Debit Card
+FB1166,1393.56,3298.9,5.29,79,S Airlines,Premium Economy,London,Cash
+FB1167,1086.62,910.1,1.33,56,B Airways,Economy,Frankfurt,UPI
+FB1168,4515.53,13127.4,17.23,27,S Airlines,First,Mumbai,Debit Card
+FB1169,555.83,5348.3,7.98,33,B Airways,Premium Economy,New York,Debit Card
+FB1170,483.34,1582.4,2.72,72,Q Airways,Premium Economy,Frankfurt,PayPal
+FB1171,1018.3,6112.9,8.42,32,Air I,Economy,New York,UPI
+FB1172,2407.01,3441.2,4.82,30,S Airlines,Premium Economy,London,Credit Card
+FB1173,4697.93,9369,13.71,52,S Airlines,First,Dubai,Credit Card
+FB1174,4638.74,9319.7,15.04,78,Air I,First,London,Debit Card
+FB1175,849.75,7914.1,8.89,18,S Airlines,Business,Delhi,Net Banking
+FB1176,3712.9,6534.1,12.66,79,B Airways,Economy,New York,PayPal
+FB1177,4018.79,4622.9,5.22,80,L Airlines,Economy,Mumbai,Debit Card
+FB1178,3288.19,3530.4,4.37,71,Air I,Business,London,Credit Card
+FB1179,1871.28,6942.7,9.54,79,Air I,Premium Economy,New York,PayPal
+FB1180,4838.67,3390.7,3.97,23,Q Airways,Economy,Dubai,Cash
+FB1181,605.32,4022.4,4.48,62,B Airways,Business,Paris,UPI
+FB1182,1099.08,8753.9,11.57,76,L Airlines,First,Singapore,PayPal
+FB1183,1139.83,4665,6.09,78,E Airlines,Business,New York,Net Banking
+FB1184,4329.39,14755.9,22.22,80,E Airlines,Economy,London,Credit Card
+FB1185,4458.14,12530.1,21.77,34,B Airways,Premium Economy,Frankfurt,PayPal
+FB1186,3823.83,12302.7,14.71,54,E Airlines,Economy,Mumbai,UPI
+FB1187,1713.36,6749.9,11.3,42,S Airlines,Premium Economy,Delhi,PayPal
+FB1188,1107.71,3013.8,3.5,58,B Airways,Premium Economy,Mumbai,PayPal
+FB1189,4937.27,13348.2,16.22,26,B Airways,Economy,Paris,PayPal
+FB1190,2960.03,1559.5,1.83,13,S Airlines,Business,London,Net Banking
+FB1191,2725.07,1402.4,2.01,75,L Airlines,Economy,Dubai,Credit Card
+FB1192,3525.18,4888.3,5.49,22,E Airlines,Premium Economy,Dubai,Cash
+FB1193,646.52,12535.7,21.73,74,Air I,Economy,Dubai,UPI
+FB1194,2459.04,13159.5,15.36,33,S Airlines,Business,Delhi,Cash
+FB1195,3056.25,13169.7,16.21,44,Q Airways,First,Dubai,Credit Card
+FB1196,341.18,2104.9,2.69,53,Air I,Economy,New York,PayPal
+FB1197,2557.36,8678.3,13.94,55,E Airlines,First,New York,Cash
+FB1198,2183.56,11586.9,19.71,20,E Airlines,Business,New York,Cash
+FB1199,420.6,12291.1,16.39,73,Q Airways,Economy,Paris,PayPal
+FB1200,4805.54,4273.8,8.44,14,L Airlines,First,Paris,PayPal
+FB1201,1032.01,4649.5,6.57,36,Air I,Premium Economy,Paris,Debit Card
+FB1202,1066.24,6641.8,8.41,57,S Airlines,Business,Dubai,PayPal
+FB1203,947.7,3427.4,5.21,23,E Airlines,First,Mumbai,Credit Card
+FB1204,1611.34,8071.9,13.74,38,B Airways,First,Frankfurt,Debit Card
+FB1205,4777.48,6144.4,7.75,67,B Airways,First,Paris,Net Banking
+FB1206,4771.23,11194,17.03,22,B Airways,Premium Economy,Paris,Net Banking
+FB1207,293.09,12057.6,17.7,36,Q Airways,Premium Economy,Delhi,Cash
+FB1208,1477.91,9356.2,16,69,E Airlines,Economy,Mumbai,Debit Card
+FB1209,492.36,14100.6,20.96,66,Air I,First,New York,PayPal
+FB1210,4212.57,12412.6,18.19,73,S Airlines,Premium Economy,Mumbai,Cash
+FB1211,575.52,10783.8,20.19,37,L Airlines,Economy,Paris,Credit Card
+FB1212,3989.1,13087.5,17.51,53,E Airlines,First,Singapore,Cash
+FB1213,4651.78,1483.9,2.23,29,S Airlines,First,Paris,Credit Card
+FB1214,1996.11,5615.4,10.74,35,Q Airways,First,Mumbai,PayPal
+FB1215,2487.25,11539.9,13.03,16,L Airlines,First,London,Net Banking
+FB1216,3193.3,11882.4,16.92,41,B Airways,Premium Economy,London,Credit Card
+FB1217,1944.44,320.9,0.36,29,S Airlines,Economy,London,Credit Card
+FB1218,2761.08,5833.1,10.21,53,B Airways,Premium Economy,London,Net Banking
+FB1219,3406.81,9874.2,15.92,16,L Airlines,Economy,Singapore,Cash
+FB1220,943.85,13464.6,26.24,39,E Airlines,Business,Delhi,Credit Card
+FB1221,239.02,5416.9,6.41,68,B Airways,Economy,New York,Cash
+FB1222,1751.24,8911.6,10.5,75,S Airlines,Business,Delhi,Net Banking
+FB1223,1525.84,10004.2,11.28,39,E Airlines,First,Mumbai,PayPal
+FB1224,2612.86,4544.4,5.52,74,Air I,Premium Economy,Singapore,PayPal
+FB1225,4210.68,7678.6,12.41,53,S Airlines,Premium Economy,Delhi,Net Banking
+FB1226,1765.18,4616.3,8.91,27,E Airlines,First,Delhi,Credit Card
+FB1227,176,6261.9,7.6,37,L Airlines,Premium Economy,Mumbai,Debit Card
+FB1228,4211.95,14011.8,17.41,28,S Airlines,Business,London,Credit Card
+FB1229,1658.29,4335.7,8.31,68,S Airlines,Premium Economy,Frankfurt,Debit Card
+FB1230,1634.23,12413.8,18.98,47,E Airlines,First,Dubai,Net Banking
+FB1231,4356.79,9862.5,15.02,54,E Airlines,Premium Economy,Mumbai,Net Banking
+FB1232,265.89,13755.9,20.27,19,B Airways,Premium Economy,Dubai,Net Banking
+FB1233,4852.33,1076.8,2.03,60,S Airlines,Business,London,Net Banking
+FB1234,2614.91,9112.6,17.84,23,S Airlines,Economy,Paris,Net Banking
+FB1235,4769.62,4004.8,5.74,78,S Airlines,First,New York,Cash
+FB1236,1761.78,7922.9,11.79,56,L Airlines,First,New York,Cash
+FB1237,4798.25,2245,2.9,23,E Airlines,Business,Paris,Net Banking
+FB1238,113.35,14500.5,19.62,28,E Airlines,Business,New York,Credit Card
+FB1239,4230.65,9073.5,16.45,17,Air I,First,Delhi,Credit Card
+FB1240,208.82,10208.2,14.3,33,Air I,Business,London,Debit Card
+FB1241,1617.03,5312.7,6.64,77,Q Airways,Premium Economy,Paris,Credit Card
+FB1242,2815.47,6624.5,9.82,26,B Airways,Premium Economy,Singapore,Credit Card
+FB1243,3705.29,10434.7,18.45,21,L Airlines,Business,Delhi,Net Banking
+FB1244,1758.11,2404.8,2.95,21,E Airlines,First,Frankfurt,PayPal
+FB1245,4610.58,6594.7,12.81,69,Q Airways,First,Singapore,Net Banking
+FB1246,766.65,6273.8,9.63,24,Air I,Business,New York,Credit Card
+FB1247,3278.84,10887.8,15.77,37,L Airlines,Business,Singapore,PayPal
+FB1248,678.12,14396.2,28.32,30,B Airways,Economy,Dubai,Cash
+FB1249,4878.3,8615.7,13.52,65,Air I,First,Paris,Cash
+FB1250,3165.45,7601.5,10.98,54,E Airlines,Premium Economy,Frankfurt,Credit Card
